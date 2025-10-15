@@ -59,7 +59,7 @@ const Index = () => {
       >
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-background/20 to-background"></div>
         <div className="container mx-auto px-4 z-10 text-center animate-fadeIn">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 gradient-primary bg-clip-text text-transparent">
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 text-white">
             Rupesh Reddy
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-4">
